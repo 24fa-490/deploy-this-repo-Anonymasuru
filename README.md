@@ -26,6 +26,6 @@
 
 # Where am I deployed?
 
-<enter your URL here>
+<anony-repo-deploy.vercel.app>
 
-
+This is a stub to make sure autodeploy works
