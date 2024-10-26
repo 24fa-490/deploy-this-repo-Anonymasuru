@@ -28,4 +28,3 @@
 
 <anony-repo-deploy.vercel.app>
 
-This is a stub to make sure autodeploy works
