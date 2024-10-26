@@ -26,5 +26,5 @@
 
 # Where am I deployed?
 
-<anony-repo-deploy.vercel.app>
+<https://www.anonydev.com/>
 
